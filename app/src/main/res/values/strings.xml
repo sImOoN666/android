@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">all_in_one</string>
+    <string name="button">ok</string>
+    <string name="textViewText">output</string>
+    <string name="editText">CryptoCurrency</string>
+    <string-array name="spinnerBox">
+        <item>bitcoin</item>
+        <item>ethereum</item>
+        <item>ripple</item>
+        <item>bitcoin-cash</item>
+    </string-array>
+    
+</resources>
